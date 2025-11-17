@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 Sobre Mí y Mi Viaje
-Actualmente me encuentro en la recta final de la **Tecnicatura Universitaria en Programación** en la prestigiosa **UTN-Facultad Regional Avellaneda (UTN-FRA)**.
+Actualmente me encuentro en la recta final de la **Tecnicatura Universitaria en Programación** en la  **UTN-Facultad Regional Avellaneda (UTN-FRA)**.
 
-Estoy a solo **4 materias** de completar la carrera, y mi foco está en integrar mis sólidos conocimientos académicos con desafíos reales de la industria.
+Estoy cursando ** las ultimas 4 materias** de  la carrera, y mi foco está en integrar mis sólidos conocimientos académicos con desafíos reales de la industria.
 
 ---
 
@@ -41,7 +41,15 @@ Mi experiencia se centra en el desarrollo **Full-Stack**, con especialización e
 
 ### 🎯 Proyectos en Destacados (Pinéalos en tu Perfil)
 
-* [**Nombre del Proyecto Full-Stack**](Link-al-repo): Aplicación con Angular + Back-End, mostrando manejo de datos y autenticación.
+* **🛒 Tienda de Frutas (Vanilla JS Frontend)**
+    * **Descripción:** Un frontend interactivo para una tienda de frutas, desarrollado con **HTML, CSS y JavaScript puro**. Demuestra manejo avanzado del DOM, lógica de carrito de compras, filtros dinámicos, ordenamiento y persistencia de datos con `localStorage`. Ideal para ver mi capacidad de resolver problemas de interacción de usuario y gestión de estado sin frameworks.
+    * **Tecnologías:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+    * **Ver Proyecto:** [Link al Repositorio de la Tienda de Frutas]([https://github.com/iaraacruuz/IaraZoePasquarioCruz-parcial1-progra32025.git])
+
+* **🎮 Sala de Juegos (Angular - Laboratorio IV UTN)**
+    * **Descripción:** Proyecto final desarrollado en **Angular**, que funciona como un portal de múltiples juegos interactivos. Demuestra mi dominio en el desarrollo de **Single Page Applications (SPA)**, manejo de ruteo complejo, componentes, servicios, y uso de **TypeScript**. Un proyecto clave de la **UTN-FRA**.
+    * **Tecnologías:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 * [**Nombre del Proyecto Pygame**](Link-al-repo): Un divertido juego para demostrar mis habilidades en Python y Pygame.
 
 ---

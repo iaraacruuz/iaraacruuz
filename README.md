@@ -58,9 +58,9 @@ Mi experiencia se centra en el desarrollo **Full-Stack**, con especialización e
 
 Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡Hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Tu Perfil de LinkedIn])
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([Tu Perfil de GitHub])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Tu Email])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/iara-zoe-pasquario-cruz/])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/iaraacruuz])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[marabelcruz@hotmail.com])
 
 ---
 ###### 📊 Mi Actividad en GitHub

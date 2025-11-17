@@ -1,4 +1,4 @@
-# ✨ ¡Bienvenido/a! Soy Iara Zoe
+# ✨ ¡Bienvenidos! Soy Iara Zoe
 
 ## 🎓 Desarrolladora Full-Stack | 🐍 Python, Angular & Cloud Practitioner
 
@@ -7,7 +7,7 @@
 ### 🚀 Sobre Mí y Mi Viaje
 Actualmente me encuentro en la recta final de la **Tecnicatura Universitaria en Programación** en la  **UTN-Facultad Regional Avellaneda (UTN-FRA)**.
 
-Estoy cursando ** las ultimas 4 materias** de  la carrera, y mi foco está en integrar mis sólidos conocimientos académicos con desafíos reales de la industria.
+Estoy cursando **las ultimas 4 materias** de  la carrera, y mi foco está en integrar mis sólidos conocimientos académicos con desafíos reales de la industria.
 
 ---
 
@@ -83,7 +83,7 @@ Mi experiencia se centra en la **Programación Web Full-Stack** y desarrollo de 
 
 ### 🤝 Conectemos
 
-Siempre estoy abierta a nuevas oportunidades y colaboraciones. ¡Hablemos!
+Siempre estoy abierta a nuevas oportunidades y colaboraciones. Charlemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iara-zoe-pasquario-cruz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaraacruuz)
